@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListViewDemo</string>
+    <string name="immagineamico">immagineAmico</string>
 </resources>
